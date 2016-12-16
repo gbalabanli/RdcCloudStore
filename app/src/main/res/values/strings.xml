@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RdcCloudStore</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="something_wrong">Your username/password wrong or you don\'t have internet connection!</string>
+
+</resources>
